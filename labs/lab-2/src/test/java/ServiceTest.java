@@ -1,5 +1,3 @@
-package tests;
-
 import dao.*;
 import domain.*;
 import services.*;
