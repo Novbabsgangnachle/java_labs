@@ -17,6 +17,7 @@
         </processorPath>
         <module name="lab-3" />
         <module name="lab-2" />
+        <module name="lab-4" />
       </profile>
     </annotationProcessing>
   </component>
@@ -25,6 +26,7 @@
       <module name="lab-1" options="-parameters" />
       <module name="lab-2" options="-parameters" />
       <module name="lab-3" options="-parameters" />
+      <module name="lab-4" options="-parameters" />
     </option>
   </component>
 </project>
