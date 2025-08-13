@@ -1,0 +1,15 @@
+version: '3.8'
+services:
+  postgres-owner:
+    image: postgres:15
+    environment:
+      POSTGRES_DB: owner_service
+      POSTGRES_PASSWORD: postgres
+    ports: ["5432:5432"]
+
+  postgres-pet:
+    image: postgres:15
+    environment:
+      POSTGRES_DB: pet_service
+      POSTGRES_PASSWORD: postgres
+    ports: ["5433:5432"]

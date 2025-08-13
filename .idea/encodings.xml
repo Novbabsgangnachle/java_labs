@@ -7,6 +7,12 @@
     <file url="file://$PROJECT_DIR$/labs/lab-2/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/labs/lab-3/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/labs/lab-4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/labs/lab-5/common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/labs/lab-5/gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/labs/lab-5/owner/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/labs/lab-5/pet/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/labs/lab-5/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/labs/lab-5/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/labs/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/labs/src/main/resources" charset="UTF-8" />
   </component>
